@@ -1,6 +1,6 @@
 # STN_Hand_Detection
 
-I tried capturing roi of hand in person image.(Single person image)
+I tried capturing roi of hand in person image(Single person image) with CMU Hand Pose Estimation Dataset.
 
 To make roi of hand, I use Spatial Transform Networks and add condition vector that 1 when hand is left and 0 when hand is right.
 
