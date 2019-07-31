@@ -15,5 +15,7 @@ The network concatnate condition vector and input image. And the others is same 
 Here is the output.
 The upper one is success case of my network. And the bottom one is failure case of my network.
 But, Success case is more frequent than failure case.
+
 ![Output_S](/Image_for_Github/output_success.PNG)
-![Output_F](/Image_for_Github/output_failure.PNG)
+
+![Output_F](/Image_for_Github/output_fail.PNG)
